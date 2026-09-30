@@ -1,0 +1,9 @@
+Agentic AI refers to AI systems that can plan, reason, and act with some degree of autonomy while remaining grounded in a defined objective. Instead of simply producing a single response to a user prompt, an agent can break work into subtasks, use tools, recall prior steps, and adapt to new information.
+
+AI agents differ from traditional automation systems because traditional automation follows rigid rules and predefined workflows, while agents can reason about goals, decide which actions to take, and use memory to maintain context over time. In other words, agents are goal-directed and adaptive rather than purely deterministic.
+
+The core components of an Agentic Architecture include a planning loop, memory, tool integration, model reasoning, action execution, and state management. Memory is especially important because it allows the agent to remember earlier messages, intermediate decisions, and task progress. This continuity makes multi-step workflows more coherent and reliable.
+
+In an Agentic AI workflow, memory supports long-term recall, short-term state tracking, and retrieval of relevant context. It helps the system stay consistent across iterations and improves the quality of decisions as tasks evolve.
+
+A mature Agentic AI system relies on retrieval, reasoning, tool usage, and action execution to pursue objectives. It should answer questions only from the information available in the relevant context and should clearly state when the answer is not supported by the document.
